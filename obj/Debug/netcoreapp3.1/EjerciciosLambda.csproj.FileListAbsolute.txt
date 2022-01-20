@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EjerciciosLambda\bin\Debug\netcoreapp3.1\EjerciciosLambda.exe
+C:\Users\LENOVO\source\repos\EjerciciosLambda\bin\Debug\netcoreapp3.1\EjerciciosLambda.deps.json
+C:\Users\LENOVO\source\repos\EjerciciosLambda\bin\Debug\netcoreapp3.1\EjerciciosLambda.runtimeconfig.json
+C:\Users\LENOVO\source\repos\EjerciciosLambda\bin\Debug\netcoreapp3.1\EjerciciosLambda.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\EjerciciosLambda\bin\Debug\netcoreapp3.1\EjerciciosLambda.dll
+C:\Users\LENOVO\source\repos\EjerciciosLambda\bin\Debug\netcoreapp3.1\EjerciciosLambda.pdb
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.dll
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.pdb
+C:\Users\LENOVO\source\repos\EjerciciosLambda\obj\Debug\netcoreapp3.1\EjerciciosLambda.genruntimeconfig.cache
